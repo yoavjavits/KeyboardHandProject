@@ -1,0 +1,159 @@
+Recording file: ../../Data/r24/recordings_24_typing_enrollment03_text_typing03.h5
+Restored sentence: it is a mior comedy that tries to balance sweetnes with coarseness while it paints a sad picture of the singles scene
+Prefix sentence: it is a mior comedy that tries to balance sweetnes with coarsene
+Not filtered
+--------------------------------------------------
+Number of typing presses predicted: 1607
+Number of typing presses ground truth: 1013
+Number of new characters predicted: 185
+Number of new characters ground truth: 117
+To concat with GT
+Restored sentence: it is a mior comedy that tries to balance sweetnes with coarseness aiice ttssrynts a std aoeture tf ahe ctmgle  ctrnes and the film s areeline atine alis als atis ale atis atis als a a a a a a a a a a a a a t tilil ti ti ti ti ti ti ti ti ti ti ti t
+To concat with Predicted
+Restored sentence: it is a mior comedy that tries to balance sweetnes with coarseness and the film s strong star and the star s strange star s strainge anini s ai a a a a a s a a a a t ti ti tera te a te a te a te a ti ti ti ti ti ti ti ti ted ted ted ted ted ted ted
+
+Filtered
+--------------------------------------------------
+Number of typing presses predicted: 269
+Number of typing presses ground truth: 103
+Number of new characters predicted: 266
+Number of new characters ground truth: 102
+To concat with GT
+Restored sentence: tis a mio omedy hat tries to blace sweetns wih cosenes aiintt srynts t stt aoeture tf ahe ctmglrtatrnes and the film s strange and a a ssa a a a ttemolimeeosthe is i i i i i i s a a a a a thes a a a a ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti thes s s s s s s s s s s s s s s s s s s s s s s thononenedonedon
+To concat with Predicted
+Restored sentence: tis a mio omedy hat tries to blace sweetns wih cosenes and the film s strong and straightforward and the film s strong star and the ther the tad ta ta ta ta ta te ta tin ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti tlonge tl tl tl tl tl s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s t
+
+
+
+Recording file: ../../Data/r24/recordings_24_typing_enrollment02_text_typing02.h5
+Restored sentence: a gentke compassionate drama about grief and healing
+Prefix sentence: a gentke compassionate dr
+Not filtered
+--------------------------------------------------
+Number of typing presses predicted: 755
+Number of typing presses ground truth: 679
+Number of new characters predicted: 57
+Number of new characters ground truth: 52
+To concat with GT
+Restored sentence: a gentke compassionate drama tbout araef and tirrtng the film s strong star and th
+To concat with Predicted
+Restored sentence: a gentke compassionate drama that s a strong story about a strange star and a stra
+
+Filtered
+--------------------------------------------------
+Number of typing presses predicted: 137
+Number of typing presses ground truth: 76
+Number of new characters predicted: 86
+Number of new characters ground truth: 48
+To concat with GT
+Restored sentence:  genk compassionate diama autq toaef and tirrtng the story s strong and strong and straightforward and stil
+To concat with Predicted
+Restored sentence:  genk compassionate dialogue and the film s strange and the film s pretended to be a strong story about a s
+
+
+
+Recording file: ../../Data/r23/recordings_23_typing_enrollment03_text_typing03.h5
+Restored sentence: its an old story but a lively script sharp acting and partially animated intrludes make just a kiss seem minty fresh
+Prefix sentence: its an old story but a lively script sharp acting and partial
+Not filtered
+--------------------------------------------------
+Number of typing presses predicted: 703
+Number of typing presses ground truth: 1079
+Number of new characters predicted: 75
+Number of new characters ground truth: 116
+To concat with GT
+Restored sentence: its an old story but a lively script sharp acting and partial y s  mated fn eiude  tone iust a sins woem tonde tooeh and the story ary s
+To concat with Predicted
+Restored sentence: its an old story but a lively script sharp acting and partial study of the complexity of the complexity of the complexity of the coundry
+
+Filtered
+--------------------------------------------------
+Number of typing presses predicted: 176
+Number of typing presses ground truth: 99
+Number of new characters predicted: 179
+Number of new characters ground truth: 101
+To concat with GT
+Restored sentence: itsanold stor bu a livly scipt sarp acting an partially smtmaedsn oide ine oust absnsuaorm tonde toot and the film s strange and stherera t tera t ta ta ta ti ti ti ti t t t t ti t t ti t t ti tlentl tl tl tl tl tl tl tl tl tl tl tl
+To concat with Predicted
+Restored sentence: itsanold stor bu a livly scipt sarp acting an partially striking story that s a strong story that s a strong story that s a strong th angedonged tinge te ange ali ali a te te te te te ange ali te te ale ane te ale te ane te ane te te
+
+
+
+Recording file: ../../Data/r17/recordings_17_typing_enrollment01_text_typing01.h5
+Restored sentence: everytime you think undercover brother has run outof steam it finds a new way to surprise and amuse
+Prefix sentence: everytime you think undercover brother has ru
+Not filtered
+--------------------------------------------------
+Number of typing presses predicted: 918
+Number of typing presses ground truth: 1234
+Number of new characters predicted: 73
+Number of new characters ground truth: 99
+To concat with GT
+Restored sentence: everytime you think undercover brother has run out f toavl on sends t sew yay to sesprise tnd t ase that is a strong s
+To concat with Predicted
+Restored sentence: everytime you think undercover brother has run out of the star s strange star s strange story and the film s strange a
+
+Filtered
+--------------------------------------------------
+Number of typing presses predicted: 108
+Number of typing presses ground truth: 87
+Number of new characters predicted: 111
+Number of new characters ground truth: 90
+To concat with GT
+Restored sentence: everytime you thik ncover broter has run outof toavl on sees mtoa yaysto sesprise tnd t dt the star s strange star s straight and titi tend ti ti ti ti ti t
+To concat with Predicted
+Restored sentence: everytime you thik ncover broter has run outof the story and the film s strong star s strong story and the film s strange and strand uping upinininer t ti t
+
+
+
+Recording file: ../../Data/r19/recordings_19_typing_enrollment02_text_typing02.h5
+Restored sentence: if this movie were a book it would be a page turner you cannot wait ti see what happens next
+Prefix sentence: if this movie were a book it would be a page
+Not filtered
+--------------------------------------------------
+Number of typing presses predicted: 1313
+Number of typing presses ground truth: 1292
+Number of new characters predicted: 93
+Number of new characters ground truth: 92
+To concat with GT
+Restored sentence: if this movie were a book it would be a page torn d tou can en satt tolt e that teppens toat to be a straightforward and a straight oned
+To concat with Predicted
+Restored sentence: if this movie were a book it would be a page to see the film s strong star and the film s strong star and the star s strange and stered t
+
+Filtered
+--------------------------------------------------
+Number of typing presses predicted: 234
+Number of typing presses ground truth: 89
+Number of new characters predicted: 220
+Number of new characters ground truth: 84
+To concat with GT
+Restored sentence: if thi movie were a bok t would bea pagedthrnid to ton en orleosthms ethat teppens es  to be a strong story about a strange and strand uping upinininer t ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti s ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti s tis
+To concat with Predicted
+Restored sentence: if thi movie were a bok t would bea paged and the film s strange and the film s pretended to be a strong story about a strange and stoma a a a thlite s a a a a ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti tle tl tl ti tl tl tl ti tl tl tl tl tl tl ti tl s
+
+
+
+Recording file: ../../Data/r21/recordings_21_typing_enrollment03_text_typing04.h5
+Restored sentence: dramas like this make it human
+Prefix sentence: dramas like th
+Not filtered
+--------------------------------------------------
+Number of typing presses predicted: 551
+Number of typing presses ground truth: 486
+Number of new characters predicted: 34
+Number of new characters ground truth: 30
+To concat with GT
+Restored sentence: dramas like thes morertt sambn being a film that
+To concat with Predicted
+Restored sentence: dramas like the story of the star s strange star
+
+Filtered
+--------------------------------------------------
+Number of typing presses predicted: 127
+Number of typing presses ground truth: 43
+Number of new characters predicted: 85
+Number of new characters ground truth: 29
+To concat with GT
+Restored sentence: dramas like this morertt snbnly seem to be a strong story about a strange star and a straightforward s
+To concat with Predicted
+Restored sentence: dramas like this movie and the film s strong star and the film s strong star and the film s strong sta
